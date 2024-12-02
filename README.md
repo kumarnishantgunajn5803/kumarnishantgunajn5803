@@ -7,15 +7,43 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kumarnishantgunajn5803" alt="kumarnishantgunajn5803" /></a> </p>
 
-- 🌱 I’m currently learning **Full Stack Web Development**
 
-- 👨‍💻 All of my projects are available at [https://kumarnishantgunajn5803.github.io/](https://kumarnishantgunajn5803.github.io/)
+- 🌱 **Currently Learning:**  Java Backend Development  
 
-- 💬 Ask me about **Java,Sql and Spring**
+- 💬 **Ask Me About:** Java, SpringBoot, MySQL, and DSA  
 
-- 📫 How to reach me **nkgunjan26102003@gmail.com**
+ 
+ Welcome to my GitHub profile! I'm a passionate software developer dedicated to building robust and scalable applications. With expertise in backend development and a knack for problem-solving, I love to explore new technologies and create impactful solutions.  
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/137xrcq5KnvAXd8-zcv1lhxL3uad4e6zI/view?usp=sharing](https://drive.google.com/file/d/137xrcq5KnvAXd8-zcv1lhxL3uad4e6zI/view?usp=sharing)
+## 🛠️ My Projects  
+Explore all my projects at: [My Portfolio](https://kumarnishantgunajn5803.github.io/)  
+
+## 📜 About Me  
+
+- 👨‍💻 I specialize in **Java Backend Development** and have hands-on experience with **SpringBoot**, **JDBC**, **MySQL**, and **Data Structures & Algorithms**.  
+- 🎯 I am proficient in creating end-to-end backend systems, handling complex operations, and teaching DSA concepts to students.  
+- 📚 I enjoy sharing knowledge and empowering others to achieve their learning goals.  
+
+## 🎸 My Interests  
+
+- 🎶 Playing the guitar to unwind and stay creative.  
+- 🏏 Playing cricket and staying active through sports.  
+- ♟️ Challenging my strategic thinking with chess.  
+
+## 📄 Resume  
+
+Check out my detailed experiences and projects in my [Resume](https://drive.google.com/file/d/10HnjmR3SNhI8UX2fbBlQocQkDtPqnNwz/view?usp=sharing).  
+
+## 📫 Let's Connect  
+
+Feel free to reach out to me at **nkgunjan26102003@gmail.com**. Whether it’s about collaboration, project inquiries, or just a tech discussion, I’m always excited to connect.  
+
+---
+
+⭐ If you find any of my repositories useful, feel free to fork and star them! Let’s grow together 🚀  
+
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
